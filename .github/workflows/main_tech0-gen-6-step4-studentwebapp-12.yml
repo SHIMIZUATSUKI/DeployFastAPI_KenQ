@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'tech0-gen-6-step4-studentwebapp-12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DD95D2CC7D1460C9EC13BDD794E6659 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86167CD5B15A42558954D4D5E0D0B6AE }}
